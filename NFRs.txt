@@ -1,0 +1,5 @@
+Supplemental Specification - Non-functional requirements
+CS 262 FA 18 Team D - OK Programmers / EventConnect
+
+1. The app should be portable. 
+2. The app should be learnable by a test subject in 5 minutes or less. 
